@@ -236,3 +236,14 @@ STOPWORDS = [
     "het",
     "heit"
     ]
+
+
+PREFILTER = [
+    "=\n",
+    "Amadis auß Franckreich",
+    "Das zehendt Buch vom",
+    "¬",
+    "-\n",
+    "\n",
+    "/"
+    ]
