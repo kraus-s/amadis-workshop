@@ -245,5 +245,4 @@ PREFILTER = [
     "¬",
     "-\n",
     "\n",
-    "/"
-    ]
+    "/", "Das zehendt Buch vom", "Das neuntzehende Buch vom", "Amadis auß Franckreich", "Das xxii. Buch vom", "Anhang des vierten Buchs", "von Amadis aus Franckreich", "Das erste Buch vom", "Das siebend Buch"]
